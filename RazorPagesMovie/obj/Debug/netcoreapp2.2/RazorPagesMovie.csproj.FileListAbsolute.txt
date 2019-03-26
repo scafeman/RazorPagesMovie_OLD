@@ -10,7 +10,6 @@ C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.RazorAssemblyInfo.cache
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.RazorAssemblyInfo.cs
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.AssemblyInfoInputs.cache
-C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.AssemblyInfo.cs
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.TagHelpers.input.cache
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.TagHelpers.output.cache
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.RazorCoreGenerate.cache
