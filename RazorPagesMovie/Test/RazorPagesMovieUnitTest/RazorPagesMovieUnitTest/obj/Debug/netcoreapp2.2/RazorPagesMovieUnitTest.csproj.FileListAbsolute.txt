@@ -1,0 +1,14 @@
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.deps.json
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.runtimeconfig.json
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.runtimeconfig.dev.json
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.dll
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\bin\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.pdb
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.csprojAssemblyReference.cache
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.AssemblyInfoInputs.cache
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.AssemblyInfo.cs
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.dll
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\Test\RazorPagesMovieUnitTest\RazorPagesMovieUnitTest\obj\Debug\netcoreapp2.2\RazorPagesMovieUnitTest.pdb
