@@ -1,4 +1,4 @@
-$testProjects = "XUnitTest", "XUnitTest.Integration"
+$testProjects = "XUnitTest"
 
 # Get the most recent OpenCover NuGet package from the dotnet nuget packages
 $nugetOpenCoverPackage = Join-Path -Path $env:C:\Users\scafe -ChildPath "\.nuget\packages\opencover\4.7.922"
