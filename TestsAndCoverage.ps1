@@ -2,10 +2,10 @@ $testProjects = "XUnitTest", "XUnitTest.Integration"
 
 # Get the most recent OpenCover NuGet package from the dotnet nuget packages
 $nugetOpenCoverPackage = Join-Path -Path $env:USERPROFILE -ChildPath "\.nuget\packages\opencover"
-$latestOpenCover = Join-Path -Path ((Get-ChildItem -Path $nugetOpenCoverPackage | Sort-Object Fullname -Descending)[0].FullName) -ChildPath "4.7.922\tools\OpenCover.Console.exe"
+$latestOpenCover = Join-Path -Path ((Get-ChildItem -Path $nugetOpenCoverPackage | Sort-Object Fullname -Descending)[0].FullName) -ChildPath "\4.7.922\tools\OpenCover.Console.exe"
 # Get the most recent OpenCoverToCoberturaConverter from the dotnet nuget packages
 $nugetCoberturaConverterPackage = Join-Path -Path $env:USERPROFILE -ChildPath "\.nuget\packages\OpenCoverToCoberturaConverter"
-$latestCoberturaConverter = Join-Path -Path (Get-ChildItem -Path $nugetCoberturaConverterPackage | Sort-Object Fullname -Descending)[0].FullName -ChildPath "tools\OpenCoverToCoberturaConverter.exe"
+$latestCoberturaConverter = Join-Path -Path (Get-ChildItem -Path $nugetCoberturaConverterPackage | Sort-Object Fullname -Descending)[0].FullName -ChildPath "\4.7.922\tools\OpenCoverToCoberturaConverter.exe"
 
 If (Test-Path "$PSScriptRoot\RazorPagesMovie\$testProject\OpenCover.coverageresults"){
 	Remove-Item "$PSScriptRoot\RazorPagesMovie\$testProject\OpenCover.coverageresults"
