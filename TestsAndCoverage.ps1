@@ -20,7 +20,7 @@ If (Test-Path "$PSScriptRoot\RazorPagesMovie\$testProject\Cobertura.coverageresu
 $testRuns = 1;
 foreach ($testProject in $testProjects){
     # Arguments for running dotnet
-    $dotnetArguments = "xunit.runner.visualstudio", "-xml `"`"$PSScriptRoot\RazorPagesMovie\$testProject\testRuns_$testRuns.testresults`"`""
+    $dotnetArguments = "test", "-xml `"`"$PSScriptRoot\RazorPagesMovie\$testProject\testRuns_$testRuns.testresults`"`""
 
     "Running tests with OpenCover"
     & $latestOpenCover `
