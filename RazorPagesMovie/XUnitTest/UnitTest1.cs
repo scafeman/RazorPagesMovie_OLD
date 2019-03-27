@@ -1,5 +1,5 @@
 using System;
-using Xunit;
+using XUnitTest;
 
 namespace XUnitTest
 {
@@ -10,5 +10,9 @@ namespace XUnitTest
         {
 
         }
+    }
+
+    internal class FactAttribute : Attribute
+    {
     }
 }
