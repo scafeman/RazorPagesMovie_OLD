@@ -1,0 +1,10 @@
+{
+  "name": "bower.json",
+  "homepage": "https://github.com/scafeman/RazorPagesMovie",
+  "authors": [
+    "scafeman <matt.scafe@rackspace.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT"
+}
