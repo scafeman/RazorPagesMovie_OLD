@@ -4723,6 +4723,9 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "WebConfigTransformRunner/1.0.0.1": {
+        "type": "package"
       }
     }
   },
@@ -13011,6 +13014,24 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "WebConfigTransformRunner/1.0.0.1": {
+      "sha512": "eUKiAHGGR/4jPmUrVqYeIYdQmUaNY+L09LYfAPyyS35w62QmC3OEI/O/XMR86F4tJ8BKS6VNGJJ5RFdjKH6dyA==",
+      "type": "package",
+      "path": "webconfigtransformrunner/1.0.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Tools/Microsoft.Web.XmlTransform.dll",
+        "Tools/WebConfigTransformRunner.exe",
+        "Tools/WebConfigTransformRunner.pdb",
+        "Tools/WebConfigTransformRunner.vshost.exe",
+        "Tools/WebConfigTransformRunner.vshost.exe.manifest",
+        "readme.txt",
+        "webconfigtransformrunner.1.0.0.1.nupkg.sha512",
+        "webconfigtransformrunner.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -13019,6 +13040,7 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0",
+      "WebConfigTransformRunner >= 1.0.0.1",
       "opencover >= 4.7.922"
     ]
   },
@@ -13083,6 +13105,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "WebConfigTransformRunner": {
+            "target": "Package",
+            "version": "[1.0.0.1, )"
           },
           "opencover": {
             "target": "Package",
