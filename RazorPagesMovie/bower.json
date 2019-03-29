@@ -6,5 +6,13 @@
   ],
   "description": "",
   "main": "",
-  "license": "MIT"
+  "license": "MIT",
+  "resolutions": {
+    "webcomponentsjs": "v2.2.7",
+    "polymer": "v3.2.0"
+  },
+  "dependencies": {
+    "webcomponentsjs": "v2.2.7",
+    "polymer": "v3.2.0"
+  }
 }
