@@ -1474,6 +1474,7 @@
     },
     "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.1.0",
     "gulp-eslint": "^5.0.0",
     "gulp-if": "^2.0.2",
     "gulp-util": "^3.0.8",
