@@ -1472,7 +1472,6 @@
       "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.15.tgz",
       "version": "4.1.15"
     },
-    "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-cli": "^2.1.0",
     "gulp-eslint": "^5.0.0",
@@ -3029,5 +3028,11 @@
       "resolved": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-5.0.0.tgz",
       "version": "5.0.0"
     }
-  }
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  },
 }
