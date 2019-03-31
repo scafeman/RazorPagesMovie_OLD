@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "539d82408a57176dadc0568ab62ce462c3a7d9a3"
+    "signature": "674de99cc68f81182b07277e5b61410c78bed17c"
   },
   "compilationOptions": {
     "defines": [
@@ -24,10 +24,12 @@
     ".NETCoreApp,Version=v2.2": {
       "RazorPagesMovie/1.0.0": {
         "dependencies": {
+          "BuildBundlerMinifier": "2.9.406",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.0",
+          "WebConfigTransformRunner": "1.0.0.1",
           "OpenCover": "4.7.922"
         },
         "runtime": {
@@ -37,6 +39,7 @@
           "RazorPagesMovie.dll": {}
         }
       },
+      "BuildBundlerMinifier/2.9.406": {},
       "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
         "dependencies": {
           "Microsoft.CodeAnalysis.CSharp": "2.8.0",
@@ -344,6 +347,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
+      "WebConfigTransformRunner/1.0.0.1": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3546,6 +3550,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "BuildBundlerMinifier/2.9.406": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jNgso4DDVEDTmM2O41WWI8OMC5CV0yMqMK/cRMJldO64XzC2PDdg+FV/GHqN6qh3KDuTKcDlB/t7F2WBWrNOgQ==",
+      "path": "buildbundlerminifier/2.9.406",
+      "hashPath": "buildbundlerminifier.2.9.406.nupkg.sha512"
+    },
     "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
       "type": "package",
       "serviceable": true,
@@ -3678,6 +3689,13 @@
       "sha512": "sha512-td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
+    },
+    "WebConfigTransformRunner/1.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eUKiAHGGR/4jPmUrVqYeIYdQmUaNY+L09LYfAPyyS35w62QmC3OEI/O/XMR86F4tJ8BKS6VNGJJ5RFdjKH6dyA==",
+      "path": "webconfigtransformrunner/1.0.0.1",
+      "hashPath": "webconfigtransformrunner.1.0.0.1.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
