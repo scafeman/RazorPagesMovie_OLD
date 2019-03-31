@@ -48,7 +48,7 @@
     "gulp-babel": "^7.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-rollup": "^2.16.2",
-    "gulp-sourcemaps": "^2.6.4",
+    "gulp-sourcemaps": "^2.6.5",
     "promise-polyfill": "^8.0.0",
     "rollup": "^0.60.7",
     "rollup-plugin-babel": "^3.0.7",
