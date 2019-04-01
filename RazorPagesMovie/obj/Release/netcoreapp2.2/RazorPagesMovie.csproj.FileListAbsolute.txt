@@ -32,3 +32,4 @@ C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Release\netcorea
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Release\netcoreapp2.2\RazorPagesMovie.dll
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Release\netcoreapp2.2\RazorPagesMovie.pdb
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Release\netcoreapp2.2\RazorPagesMovie.csproj.CopyComplete
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Release\netcoreapp2.2\RazorPagesMovie.AssemblyInfo.cs
