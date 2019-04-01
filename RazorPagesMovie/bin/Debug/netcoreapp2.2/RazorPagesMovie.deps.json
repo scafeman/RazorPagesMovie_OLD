@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "674de99cc68f81182b07277e5b61410c78bed17c"
+    "signature": "156adc4183d36b02d7dbb198adca7606f0c5d1ec"
   },
   "compilationOptions": {
     "defines": [
@@ -28,9 +28,7 @@
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.0",
-          "WebConfigTransformRunner": "1.0.0.1",
-          "OpenCover": "4.7.922"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.0"
         },
         "runtime": {
           "RazorPagesMovie.dll": {}
@@ -209,7 +207,6 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
-      "OpenCover/4.7.922": {},
       "System.Composition/1.0.31": {
         "dependencies": {
           "System.Composition.AttributedModel": "1.0.31",
@@ -347,7 +344,6 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "WebConfigTransformRunner/1.0.0.1": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3634,13 +3630,6 @@
       "path": "nuget.frameworks/4.7.0",
       "hashPath": "nuget.frameworks.4.7.0.nupkg.sha512"
     },
-    "OpenCover/4.7.922": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Mwqq3r8cHj7qazNzWp1K9zmU15amC9bzMvFK83zM4D+ATSN/IOkJGZh6kEvXnTVJjl6LN6U/4QCdRHxulAISuA==",
-      "path": "opencover/4.7.922",
-      "hashPath": "opencover.4.7.922.nupkg.sha512"
-    },
     "System.Composition/1.0.31": {
       "type": "package",
       "serviceable": true,
@@ -3689,13 +3678,6 @@
       "sha512": "sha512-td7x21K8LalpjTWCzW/nQboQIFbq9i0r+PCyBBCdLWWnm4NBcdN18vpz/G9hCpUaCIfRL+ZxJNVTywlNlB1aLQ==",
       "path": "system.linq.parallel/4.3.0",
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
-    },
-    "WebConfigTransformRunner/1.0.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eUKiAHGGR/4jPmUrVqYeIYdQmUaNY+L09LYfAPyyS35w62QmC3OEI/O/XMR86F4tJ8BKS6VNGJJ5RFdjKH6dyA==",
-      "path": "webconfigtransformrunner/1.0.0.1",
-      "hashPath": "webconfigtransformrunner.1.0.0.1.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",
