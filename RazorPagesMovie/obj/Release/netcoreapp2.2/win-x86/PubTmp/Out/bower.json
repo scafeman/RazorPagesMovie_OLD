@@ -1,0 +1,18 @@
+{
+  "name": "bower.json",
+  "homepage": "https://github.com/scafeman/RazorPagesMovie",
+  "authors": [
+    "scafeman <matt.scafe@rackspace.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "resolutions": {
+    "webcomponentsjs": "v2.2.7",
+    "polymer": "v3.2.0"
+  },
+  "dependencies": {
+    "webcomponentsjs": "v2.2.7",
+    "polymer": "v3.2.0"
+  }
+}
