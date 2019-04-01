@@ -32,3 +32,4 @@ C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
 C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
+C:\Users\scafe\source\repos\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.2\RazorPagesMovie.AssemblyInfo.cs
