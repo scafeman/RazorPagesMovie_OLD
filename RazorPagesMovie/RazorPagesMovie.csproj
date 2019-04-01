@@ -32,8 +32,6 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
-    <PackageReference Include="opencover" Version="4.7.922" />
-    <PackageReference Include="WebConfigTransformRunner" Version="1.0.0.1" />
   </ItemGroup>
 
   
