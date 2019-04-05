@@ -1608,7 +1608,7 @@
           "lib/netstandard1.4/Microsoft.Azure.KeyVault.WebKey.dll": {}
         }
       },
-      "Microsoft.Azure.Services.AppAuthentication/1.0.1": {
+      "Microsoft.Azure.Services.AppAuthentication/1.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.14.2",
@@ -1622,7 +1622,7 @@
           "lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.dll": {}
         },
         "build": {
-          "build/_._": {}
+          "build/Microsoft.Azure.Services.AppAuthentication.targets": {}
         }
       },
       "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
@@ -6276,10 +6276,10 @@
         "microsoft.azure.keyvault.webkey.nuspec"
       ]
     },
-    "Microsoft.Azure.Services.AppAuthentication/1.0.1": {
-      "sha512": "oSVQ+YLgn0PfDLBRwOtHrkw06Pc6HvqIVrtFFWMg/1eafY+Hbrm1CSXnzXKXJwqUUv0ynvuwqzjN+IFR3g588w==",
+    "Microsoft.Azure.Services.AppAuthentication/1.0.3": {
+      "sha512": "ywpQaK1klu1IoX4VUf+TBmU4kR71aWNI6O5rEIJU8z28L2xhJhnIm7k2Nf1Zu/PygeuOtt5g0QPCk5+lLltbeQ==",
       "type": "package",
-      "path": "microsoft.azure.services.appauthentication/1.0.1",
+      "path": "microsoft.azure.services.appauthentication/1.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -6290,7 +6290,7 @@
         "lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.dll",
         "lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.runtimeconfig.json",
         "lib/netstandard1.4/Microsoft.Azure.Services.AppAuthentication.xml",
-        "microsoft.azure.services.appauthentication.1.0.1.nupkg.sha512",
+        "microsoft.azure.services.appauthentication.1.0.3.nupkg.sha512",
         "microsoft.azure.services.appauthentication.nuspec"
       ]
     },
@@ -13500,6 +13500,7 @@
       "BuildBundlerMinifier >= 2.9.406",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.Azure.Services.AppAuthentication >= 1.0.3",
       "Microsoft.Extensions.Configuration.AzureKeyVault >= 2.2.0",
       "Microsoft.Extensions.Configuration.CommandLine >= 2.2.0",
       "Microsoft.Extensions.Configuration.EnvironmentVariables >= 2.2.0",
@@ -13564,6 +13565,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.Azure.Services.AppAuthentication": {
+            "target": "Package",
+            "version": "[1.0.3, )"
           },
           "Microsoft.Extensions.Configuration.AzureKeyVault": {
             "target": "Package",
